@@ -1,0 +1,4 @@
+D:\Subject in University\Winform\bai ktso1\buoi4\baithso2\phanso\obj\Debug\netcoreapp2.1\phanso.csprojAssemblyReference.cache
+D:\Subject in University\Winform\bai ktso1\buoi4\baithso2\phanso\obj\Debug\netcoreapp2.1\phanso.csproj.CoreCompileInputs.cache
+D:\Subject in University\Winform\bai ktso1\buoi4\baithso2\phanso\obj\Debug\netcoreapp2.1\phanso.AssemblyInfoInputs.cache
+D:\Subject in University\Winform\bai ktso1\buoi4\baithso2\phanso\obj\Debug\netcoreapp2.1\phanso.AssemblyInfo.cs

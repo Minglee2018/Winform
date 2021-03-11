@@ -1,0 +1,13 @@
+C:\LTW\Console\TongChan\TongChan\bin\Debug\TongChan.exe.config
+C:\LTW\Console\TongChan\TongChan\bin\Debug\TongChan.exe
+C:\LTW\Console\TongChan\TongChan\bin\Debug\TongChan.pdb
+C:\LTW\Console\TongChan\TongChan\obj\Debug\TongChan.csprojResolveAssemblyReference.cache
+C:\LTW\Console\TongChan\TongChan\obj\Debug\TongChan.exe
+C:\LTW\Console\TongChan\TongChan\obj\Debug\TongChan.pdb
+D:\LTW\Console\TongChan\TongChan\bin\Debug\TongChan.exe.config
+D:\LTW\Console\TongChan\TongChan\bin\Debug\TongChan.exe
+D:\LTW\Console\TongChan\TongChan\bin\Debug\TongChan.pdb
+D:\LTW\Console\TongChan\TongChan\obj\Debug\TongChan.csprojAssemblyReference.cache
+D:\LTW\Console\TongChan\TongChan\obj\Debug\TongChan.csproj.CoreCompileInputs.cache
+D:\LTW\Console\TongChan\TongChan\obj\Debug\TongChan.exe
+D:\LTW\Console\TongChan\TongChan\obj\Debug\TongChan.pdb

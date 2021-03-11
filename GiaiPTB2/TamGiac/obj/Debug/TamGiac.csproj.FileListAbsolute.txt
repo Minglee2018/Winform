@@ -1,0 +1,13 @@
+C:\LTW\Console\TongChuoi\TamGiac\bin\Debug\TamGiac.exe.config
+C:\LTW\Console\TongChuoi\TamGiac\bin\Debug\TamGiac.exe
+C:\LTW\Console\TongChuoi\TamGiac\bin\Debug\TamGiac.pdb
+C:\LTW\Console\TongChuoi\TamGiac\obj\Debug\TamGiac.csprojResolveAssemblyReference.cache
+C:\LTW\Console\TongChuoi\TamGiac\obj\Debug\TamGiac.exe
+C:\LTW\Console\TongChuoi\TamGiac\obj\Debug\TamGiac.pdb
+D:\LTW\Console\Examples\TamGiac\bin\Debug\TamGiac.exe.config
+D:\LTW\Console\Examples\TamGiac\bin\Debug\TamGiac.exe
+D:\LTW\Console\Examples\TamGiac\bin\Debug\TamGiac.pdb
+D:\LTW\Console\Examples\TamGiac\obj\Debug\TamGiac.csprojAssemblyReference.cache
+D:\LTW\Console\Examples\TamGiac\obj\Debug\TamGiac.csproj.CoreCompileInputs.cache
+D:\LTW\Console\Examples\TamGiac\obj\Debug\TamGiac.exe
+D:\LTW\Console\Examples\TamGiac\obj\Debug\TamGiac.pdb

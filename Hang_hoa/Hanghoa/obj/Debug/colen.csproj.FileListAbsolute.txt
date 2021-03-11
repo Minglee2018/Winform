@@ -1,0 +1,19 @@
+D:\C#\colen\colen\bin\Debug\colen.exe.config
+D:\C#\colen\colen\bin\Debug\colen.exe
+D:\C#\colen\colen\bin\Debug\colen.pdb
+D:\C#\colen\colen\obj\Debug\colen.csprojResolveAssemblyReference.cache
+D:\C#\colen\colen\obj\Debug\colen.Form1.resources
+D:\C#\colen\colen\obj\Debug\colen.Properties.Resources.resources
+D:\C#\colen\colen\obj\Debug\colen.csproj.GenerateResource.Cache
+D:\C#\colen\colen\obj\Debug\colen.exe
+D:\C#\colen\colen\obj\Debug\colen.pdb
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\bin\Debug\colen.exe.config
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\bin\Debug\colen.exe
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\bin\Debug\colen.pdb
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\obj\Debug\colen.csprojAssemblyReference.cache
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\obj\Debug\colen.Form1.resources
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\obj\Debug\colen.Properties.Resources.resources
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\obj\Debug\colen.csproj.GenerateResource.cache
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\obj\Debug\colen.csproj.CoreCompileInputs.cache
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\obj\Debug\colen.exe
+D:\Subject in University\Winform\bai ktso1\Buổi 3\hihi\colen\obj\Debug\colen.pdb

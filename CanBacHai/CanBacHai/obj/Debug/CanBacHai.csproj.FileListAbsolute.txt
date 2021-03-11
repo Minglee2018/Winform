@@ -1,0 +1,13 @@
+C:\LTW\Console\CanBacHai\CanBacHai\bin\Debug\CanBacHai.exe.config
+C:\LTW\Console\CanBacHai\CanBacHai\bin\Debug\CanBacHai.exe
+C:\LTW\Console\CanBacHai\CanBacHai\bin\Debug\CanBacHai.pdb
+C:\LTW\Console\CanBacHai\CanBacHai\obj\Debug\CanBacHai.csprojResolveAssemblyReference.cache
+C:\LTW\Console\CanBacHai\CanBacHai\obj\Debug\CanBacHai.exe
+C:\LTW\Console\CanBacHai\CanBacHai\obj\Debug\CanBacHai.pdb
+D:\LTW\Console\CanBacHai\CanBacHai\bin\Debug\CanBacHai.exe.config
+D:\LTW\Console\CanBacHai\CanBacHai\bin\Debug\CanBacHai.exe
+D:\LTW\Console\CanBacHai\CanBacHai\bin\Debug\CanBacHai.pdb
+D:\LTW\Console\CanBacHai\CanBacHai\obj\Debug\CanBacHai.csprojAssemblyReference.cache
+D:\LTW\Console\CanBacHai\CanBacHai\obj\Debug\CanBacHai.csproj.CoreCompileInputs.cache
+D:\LTW\Console\CanBacHai\CanBacHai\obj\Debug\CanBacHai.exe
+D:\LTW\Console\CanBacHai\CanBacHai\obj\Debug\CanBacHai.pdb

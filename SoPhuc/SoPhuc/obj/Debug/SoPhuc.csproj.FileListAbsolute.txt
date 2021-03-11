@@ -1,0 +1,13 @@
+C:\LTW\Console\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe.config
+C:\LTW\Console\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe
+C:\LTW\Console\SoPhuc\SoPhuc\bin\Debug\SoPhuc.pdb
+C:\LTW\Console\SoPhuc\SoPhuc\obj\Debug\SoPhuc.csprojResolveAssemblyReference.cache
+C:\LTW\Console\SoPhuc\SoPhuc\obj\Debug\SoPhuc.exe
+C:\LTW\Console\SoPhuc\SoPhuc\obj\Debug\SoPhuc.pdb
+D:\LTW\Console\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe.config
+D:\LTW\Console\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe
+D:\LTW\Console\SoPhuc\SoPhuc\bin\Debug\SoPhuc.pdb
+D:\LTW\Console\SoPhuc\SoPhuc\obj\Debug\SoPhuc.csprojAssemblyReference.cache
+D:\LTW\Console\SoPhuc\SoPhuc\obj\Debug\SoPhuc.csproj.CoreCompileInputs.cache
+D:\LTW\Console\SoPhuc\SoPhuc\obj\Debug\SoPhuc.exe
+D:\LTW\Console\SoPhuc\SoPhuc\obj\Debug\SoPhuc.pdb

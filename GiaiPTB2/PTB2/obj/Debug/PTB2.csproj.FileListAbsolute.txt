@@ -1,0 +1,6 @@
+C:\LTW\Console\TongChuoi\PTB2\bin\Debug\PTB2.exe.config
+C:\LTW\Console\TongChuoi\PTB2\bin\Debug\PTB2.exe
+C:\LTW\Console\TongChuoi\PTB2\bin\Debug\PTB2.pdb
+C:\LTW\Console\TongChuoi\PTB2\obj\Debug\PTB2.exe
+C:\LTW\Console\TongChuoi\PTB2\obj\Debug\PTB2.pdb
+C:\LTW\Console\TongChuoi\PTB2\obj\Debug\PTB2.csprojResolveAssemblyReference.cache

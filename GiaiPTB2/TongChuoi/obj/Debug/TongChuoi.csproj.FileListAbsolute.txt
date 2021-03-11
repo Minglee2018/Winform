@@ -1,0 +1,13 @@
+C:\LTW\Console\TongChuoi\TongChuoi\bin\Debug\TongChuoi.exe.config
+C:\LTW\Console\TongChuoi\TongChuoi\bin\Debug\TongChuoi.exe
+C:\LTW\Console\TongChuoi\TongChuoi\bin\Debug\TongChuoi.pdb
+C:\LTW\Console\TongChuoi\TongChuoi\obj\Debug\TongChuoi.csprojResolveAssemblyReference.cache
+C:\LTW\Console\TongChuoi\TongChuoi\obj\Debug\TongChuoi.exe
+C:\LTW\Console\TongChuoi\TongChuoi\obj\Debug\TongChuoi.pdb
+D:\LTW\Console\Examples\TongChuoi\bin\Debug\TongChuoi.exe.config
+D:\LTW\Console\Examples\TongChuoi\bin\Debug\TongChuoi.exe
+D:\LTW\Console\Examples\TongChuoi\bin\Debug\TongChuoi.pdb
+D:\LTW\Console\Examples\TongChuoi\obj\Debug\TongChuoi.csprojAssemblyReference.cache
+D:\LTW\Console\Examples\TongChuoi\obj\Debug\TongChuoi.csproj.CoreCompileInputs.cache
+D:\LTW\Console\Examples\TongChuoi\obj\Debug\TongChuoi.exe
+D:\LTW\Console\Examples\TongChuoi\obj\Debug\TongChuoi.pdb

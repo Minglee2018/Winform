@@ -1,0 +1,10 @@
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\bin\Debug\LoadDuLieuLenForm.exe.config
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\bin\Debug\LoadDuLieuLenForm.exe
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\bin\Debug\LoadDuLieuLenForm.pdb
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\obj\Debug\LoadDuLieuLenForm.csprojAssemblyReference.cache
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\obj\Debug\LoadDuLieuLenForm.Form1.resources
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\obj\Debug\LoadDuLieuLenForm.Properties.Resources.resources
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\obj\Debug\LoadDuLieuLenForm.csproj.GenerateResource.cache
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\obj\Debug\LoadDuLieuLenForm.csproj.CoreCompileInputs.cache
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\obj\Debug\LoadDuLieuLenForm.exe
+D:\Subject in University\Winform\bài kiểm tra số 2\LoadDuLieuLenForm\obj\Debug\LoadDuLieuLenForm.pdb
