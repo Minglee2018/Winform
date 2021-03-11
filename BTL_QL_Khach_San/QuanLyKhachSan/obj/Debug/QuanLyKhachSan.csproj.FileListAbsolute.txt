@@ -1,0 +1,57 @@
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhapScreen.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DatDV.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DatPhongScreen.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DichVuScreen.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.HoaDon.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.KhachHangScreen.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.ManHinhQuanLy.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.Phong.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.QuanLyNhanVienScreen.resources
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\Nam 3\Ki 2\Cshape\BaiTapLon\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhapScreen.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DatDV.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DatPhongScreen.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DichVuScreen.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.HoaDon.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.KhachHangScreen.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.ManHinhQuanLy.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.Phong.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.QuanLyNhanVienScreen.resources
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\PL\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhapScreen.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DatDV.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DatPhongScreen.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DichVuScreen.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.HoaDon.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.KhachHangScreen.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.ManHinhQuanLy.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.Phong.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.QuanLyNhanVienScreen.resources
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+G:\Năm 3\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
